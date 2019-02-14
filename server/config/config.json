@@ -1,0 +1,14 @@
+{
+  "development": {
+    "url": "postgres://vxtrkcze:ln6EG18ibwjp4b3b4ns9AGGEzz-Dnmvb@stampy.db.elephantsql.com:5432/vxtrkcze",
+    "dialect": "postgres"
+  },
+  "test": {
+    "url": "postgres://kgalybgb:ySXZAyRoYGQAfY7B71BlCHRvi7aLnsR0@baasu.db.elephantsql.com:5432/kgalybgb",
+    "dialect": "postgres"
+  },
+  "production": {
+    "url": "postgres://vxtrkcze:ln6EG18ibwjp4b3b4ns9AGGEzz-Dnmvb@stampy.db.elephantsql.com:5432/vxtrkcze",
+    "dialect": "postgres"
+  }
+}

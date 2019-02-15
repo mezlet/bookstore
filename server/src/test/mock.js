@@ -3,7 +3,7 @@ import faker from 'faker';
 export const user = {
     name: "leticia",
     username: "letty",
-    email: "qhaw@gmail.com",
+    email: faker.internet.email(),
     password: "12345678"
 }
 

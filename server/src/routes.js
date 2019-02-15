@@ -1,7 +1,7 @@
 import express from 'express';
 const router = express.Router();
-import User from '../server/controllers/user'
-import Book from '../server/controllers/book'
+import User from './controllers/user'
+import Book from './controllers/book'
 
 router.get('/', (req, res) => {
     res.send("coming to america")

@@ -1,7 +1,6 @@
 import express from 'express';
 import logger from 'morgan';
 import dotenv from 'dotenv';
-//import app from './src/server';
 import router from './src/routes'
 
 dotenv.config();

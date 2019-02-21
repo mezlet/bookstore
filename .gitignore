@@ -55,7 +55,7 @@ typings/
 # Optional REPL history
 .node_repl_history
 
-.DS_STORE
+.DS_Store
 
 # Output of 'npm pack'
 *.tgz
